@@ -13,8 +13,6 @@ const init = () => {
             title.textContent = movie.title
             summary.textContent = movie.summary
 
-
-
         })
 
 
